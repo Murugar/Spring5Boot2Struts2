@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>User Information</title>
+    <title>Spring Boot 2.5.4 Struts 2.3.32 Demo</title>
     <style>
         body{
             font-family: verdana;
@@ -40,7 +40,8 @@
     </style>
 </head>
 <body>
-<h1>User Information</h1>
+<h1>Spring Boot 2.5.4 Struts 2.3.32</h1>
+<h3>User Information</h3>
 <table>
     <tr>
         <th>ID</th>
